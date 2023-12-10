@@ -59,6 +59,7 @@ iptables -I INPUT -s 52.211.50.43 -j DROP
 iptables -I INPUT -s 192.119.20.37 -j DROP
 iptables -I INPUT -s 52.84.174.86 -j DROP
 iptables -I INPUT -s 54.253.189.76 -j DROP
+iptables -I INPUT -s 176.31.195.20 -j DROP
 # iptables -A INPUT -p icmp -j DROP
 # iptables -A OUTPUT -p icmp -j DROP
 iptables-save  > /etc/iptables/rules1.v4
