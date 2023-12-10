@@ -1,6 +1,9 @@
 echo "Minh Anh thông báo: Đang chặn speedtest..."
 echo -e ""
 sleep 1
+sudo apt install -y iptables-persistent netfilter-persistent
+yes
+EOF
 iptables -F
 iptables -I INPUT -s 23.246.0.0/18 -j DROP
 iptables -I INPUT -s 198.38.96.0/19 -j DROP
