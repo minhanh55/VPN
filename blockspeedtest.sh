@@ -71,4 +71,4 @@ systemctl status netfilter-persistent
 echo "Minh Anh thông báo: Chặn speedtest thành công!"
 echo -e ""
 sleep 1
-clear
+
