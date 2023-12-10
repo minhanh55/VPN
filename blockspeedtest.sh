@@ -67,7 +67,7 @@ systemctl start netfilter-persistent
 systemctl restart netfilter-persistent
 systemctl enable netfilter-persistent
 systemctl status netfilter-persistent
-clear
+
 echo "Minh Anh thông báo: Chặn speedtest thành công!"
 echo -e ""
 sleep 1
