@@ -3,13 +3,11 @@ echo -e ""
 sleep 1
 #!/bin/bash
 
-# Check if the script is run with root privileges
 if [ "$(id -u)" != "0" ]; then
-    echo "This script must be run as root. Exiting..."
+    echo "Tập lệnh này phải được chạy dưới quyền root. Đang thoát..."
     exit 1
 fi
 
-# Add entries to block websites in /etc/hosts file
 echo "127.0.0.1   www.speedtest.net" | sudo tee -a /etc/hosts
 echo "127.0.0.1   speedtest.vn" | sudo tee -a /etc/hosts
 echo "127.0.0.1   fast.com" | sudo tee -a /etc/hosts
