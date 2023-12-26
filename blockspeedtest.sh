@@ -26,7 +26,6 @@ echo "127.0.0.1   www.highspeedinternet.com" | sudo tee -a /etc/hosts
 echo "127.0.0.1   speed.cloudflare.com" | sudo tee -a /etc/hosts
 echo "127.0.0.1   proof.ovh.net" | sudo tee -a /etc/hosts
 
-clear
 
 echo "Minh Anh thông báo: Chặn speedtest thành công!"
 echo -e ""
