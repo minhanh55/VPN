@@ -1,52 +1,53 @@
-vpndata.vn
-mangtac.com
-zenpn.com
-speed4g.me
-4gduc.fun
-vpndata.ru
-goicuocsieure.top
-flash5g.com
-nghiadata.io.vn
-4gbiotv.com
-tuongsky.io.vn
-4gluuphuong.com
-5gtocdocao.com
-anhtai4g.me
-tltvpn.com
-safepn.net
-4gtocdo.click
-4ghatre.click
-genzpvpt.com
-vpdata.site
-ht4gvpn.com
-net5g.pro
-4gdatare.com
-vpnfast.pro
-shopvpn4g.vn
-truong4g.com
-5gdatavip.dichvutop1.pro.vn
-free4g.vn
-vpngiangon.com
-maxprovpn.com
-5ggiasinhvien.store
-network.io.vn
-dvsteam.net
-vpnfast.vn
-tnetz.pro
-daily4g.com
-nam4g.com
-dpt4g.com
-zingfast.vn
-sky4g.com
-4gsieunhanh.com
-4gspeed.me
-tenvpndata.io.vn
-tuan4g.shop
-tuananh4g.com
-vpn.sôs.vn
-free4gvpn.com
-super4g.click
-fuzzypn.me
-4gviet.com
-Vpnsieutoc.com
-shopvpn4g.vn
+sudo nano /etc/hosts
+127.0.0.1   vpndata.vn
+127.0.0.1   mangtac.com
+127.0.0.1   zenpn.com
+127.0.0.1   speed4g.me
+127.0.0.1   4gduc.fun
+127.0.0.1   vpndata.ru
+127.0.0.1   goicuocsieure.top
+127.0.0.1   flash5g.com
+127.0.0.1   nghiadata.io.vn
+127.0.0.1   4gbiotv.com
+127.0.0.1   tuongsky.io.vn
+127.0.0.1   4gluuphuong.com
+127.0.0.1   5gtocdocao.com
+127.0.0.1   anhtai4g.me
+127.0.0.1   tltvpn.com
+127.0.0.1   safepn.net
+127.0.0.1   4gtocdo.click
+127.0.0.1   4ghatre.click
+127.0.0.1   genzpvpt.com
+127.0.0.1   vpdata.site
+127.0.0.1   ht4gvpn.com
+127.0.0.1   net5g.pro
+127.0.0.1   4gdatare.com
+127.0.0.1   vpnfast.pro
+127.0.0.1   shopvpn4g.vn
+127.0.0.1   truong4g.com
+127.0.0.1   5gdatavip.dichvutop1.pro.vn
+127.0.0.1   free4g.vn
+127.0.0.1   vpngiangon.com
+127.0.0.1   maxprovpn.com
+127.0.0.1   5ggiasinhvien.store
+127.0.0.1   network.io.vn
+127.0.0.1   dvsteam.net
+127.0.0.1   vpnfast.vn
+127.0.0.1   tnetz.pro
+127.0.0.1   daily4g.com
+127.0.0.1   nam4g.com
+127.0.0.1   dpt4g.com
+127.0.0.1   zingfast.vn
+127.0.0.1   sky4g.com
+127.0.0.1   4gsieunhanh.com
+127.0.0.1   4gspeed.me
+127.0.0.1   tenvpndata.io.vn
+127.0.0.1   tuan4g.shop
+127.0.0.1   tuananh4g.com
+127.0.0.1   vpn.sôs.vn
+127.0.0.1   free4gvpn.com
+127.0.0.1   super4g.click
+127.0.0.1   fuzzypn.me
+127.0.0.1   4gviet.com
+127.0.0.1   vpnsieutoc.com
+127.0.0.1   shopvpn4g.vn
